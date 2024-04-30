@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+    color: rgb(73, 73, 255) !important;
+}
+
+code {
+    color: #3db34c !important;
+}
+
+li {
+    color: darkmagenta !important;
+}
+table {
+    color: black !important;
+}
+thead {
+    color: black !important;
+    font-weight: 900;
+
+}
+tr {
+    color: black !important;
+}
+th{
+    color: black !important;
+}
+td{
+    color: black !important;
+}
+tbody{
+    color: black !important;
+}
+
+strong {
+    color: black !important;
+}

@@ -1,0 +1,17 @@
+export const NETWORK_CHAINID_MAPPING = {
+    POLYGON: 137,
+    ETHEREUM: 1,
+    KLAYTN: 8217,
+    BSC: 56,
+    ARBITRUM: 42161,
+    OPTIMISM: 10,
+    SCROLL: 534352,
+    GNOSIS: 100,
+    AVALANCHE: 43114,
+    FANTOM: 250,
+    CRONOS: 25,
+    OASYS: 248,
+    METER: 82,
+    BASE: 8453,
+    LINEA: 59144,
+}
